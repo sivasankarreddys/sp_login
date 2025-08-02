@@ -1,1 +1,2 @@
-springboot login application
+springboot login application 
+/login endpoint input is username
